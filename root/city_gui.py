@@ -78,6 +78,3 @@ if __name__ == "__main__":
     app.title("City Coordinates")
     app.mainloop()
 
-    
-# {"county_name":"Los Angeles","description":null,"feat_class":"Populated Place","feature_id":"1525","fips_class":"C1","fips_county_cd":"37","full_county_name":"Los Angeles County","link_title":null,"url":"http:\/\/lacity.org\/","name":"Los Angeles","primary_latitude":"34.05","primary_longitude":"-118.24","state_abbreviation":"CA","state_name":"California"},
-# {"county_name":"Los Angeles","description":null,"feat_class":"Populated Place","feature_id":"1525","fips_class":"C1","fips_county_cd":"37","full_county_name":"Los Angeles County","link_title":null,"url":"http:\/\/business.lacity.org\/","name":"Los Angeles","primary_latitude":"34.05","primary_longitude":"-118.24","state_abbreviation":"CA","state_name":"California"}
